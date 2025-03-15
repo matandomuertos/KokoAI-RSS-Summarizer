@@ -1,0 +1,6 @@
+venv/
+raw_feed.xml
+__pycache__/
+*.pyc
+.DS_Store
+.env

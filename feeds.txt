@@ -1,0 +1,2 @@
+https://aws.amazon.com/blogs/aws/feed/
+https://devblogs.microsoft.com/devops/feed/

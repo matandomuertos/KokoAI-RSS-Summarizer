@@ -1,0 +1,4 @@
+requests
+lxml
+ollama
+slack_sdk
